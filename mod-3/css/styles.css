@@ -1,3 +1,15 @@
+header {
+	width: 600px;
+}
+.navbar-collapse {
+	width: 100%;
+}
+.container-fluid {
+	padding-right: 0px;
+    padding-left: 0px;
+    margin-right: auto;
+    margin-left: auto;
+}
 #headernav {
 	background-color: #4c4d49;
 
@@ -6,13 +18,15 @@
 	font-family: 'Roboto', sans-serif;
 	font-size: 50px;
 	padding: 10px;
+	color: #0d0b0b;
 }
 #collapsable-nav {
 	color: #cdeb09;
     
 }
+
 .container h1 {
-	margin-top: 125px;
+	margin-top: 35px;
 	text-align: center;
 	font-size: 35px; 
 }
@@ -22,7 +36,7 @@
     
 }
 #chicken {
-	margin-top: 25px;
+	margin-top: 40px;
 	font-size: 20px;
 	background-color: #918c8c;
 }
