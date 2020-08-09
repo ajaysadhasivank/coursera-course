@@ -1,0 +1,33 @@
+#headernav {
+	background-color: #4c4d49;
+
+}
+#head-text {
+	font-family: 'Roboto', sans-serif;
+	font-size: 50px;
+	padding: 10px;
+}
+#collapsable-nav {
+	color: #cdeb09;
+    
+}
+.container h1 {
+	margin-top: 125px;
+	text-align: center;
+	font-size: 35px; 
+}
+#h3 {
+	padding: 15px; 
+	text-align: center; 
+    
+}
+#chicken {
+	margin-top: 25px;
+	font-size: 20px;
+	background-color: #918c8c;
+}
+
+#navbarlist {
+	width:100%;
+	text-align: center;
+}
